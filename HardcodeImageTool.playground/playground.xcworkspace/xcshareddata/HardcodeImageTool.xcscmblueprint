@@ -1,0 +1,27 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2b62823a-d849-f642-89a4-a4e023b26025++4332",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2b62823a-d849-f642-89a4-a4e023b26025++4332" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "Branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "Tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "Trunk"
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2b62823a-d849-f642-89a4-a4e023b26025++4332" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F8F92606-6028-4417-99FF-3B2794E954B4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2b62823a-d849-f642-89a4-a4e023b26025++4332" : "MSC\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HardcodeImageTool",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tools\/图片硬编码工具\/HardcodeImageTool.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.iflytek.com:8888\/svn\/Y_SPA",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2b62823a-d849-f642-89a4-a4e023b26025++4332"
+    }
+  ]
+}
